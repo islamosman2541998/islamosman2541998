@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I'm a Frontend Developer (Angular js )
+- 🔭 I'm a Frontend Developer (Angular js ) <br>
 skills :
 C++
 Data Structures
