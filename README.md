@@ -9,3 +9,15 @@
 
 
 - 🔭 I'm a Frontend Developer (Angular js )
+skills :
+C++
+Data Structures
+Algorithms
+HTML
+Cascading Style Sheets (CSS)
+Bootstrap
+JavaScript
+TypeScript
+AngularJS
+Git
+GitHub
