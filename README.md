@@ -14,7 +14,7 @@ C++ <br>
 Data Structures <br>
 Algorithms <br>
 HTML <br>
-Cascading Style Sheets (CSS) <br>
+CSS <br>
 Bootstrap<br>
 JavaScript <br>
 TypeScript <br>
